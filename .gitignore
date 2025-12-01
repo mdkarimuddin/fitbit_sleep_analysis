@@ -1,0 +1,26 @@
+# Data
+data/raw/*.csv
+data/processed/*.csv
+data/raw/*.zip
+
+# Models
+models/*.pkl
+models/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/*.png
+outputs/*.json
+
+# OS
+.DS_Store
+
