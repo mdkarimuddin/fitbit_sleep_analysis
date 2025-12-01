@@ -17,9 +17,11 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Outputs
-outputs/*.png
-outputs/*.json
+# Outputs (keeping visualizations for portfolio, but ignoring large files)
+# outputs/*.png
+# outputs/*.json
+outputs/*.zip
+outputs/*.csv
 
 # OS
 .DS_Store
