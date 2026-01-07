@@ -215,8 +215,4 @@ MIT License
 - Inspired by Oura Ring's approach to sleep tracking
 - Built on Puhti supercomputer (CSC Finland)
 
----
-
-**⭐ Star this repo if you found it useful!**
-
-*Built to demonstrate capabilities for wearable health technology roles.*
+---**⭐ Star this repo if you found it useful!***Built to demonstrate capabilities for wearable health technology roles.*
